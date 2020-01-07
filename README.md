@@ -1,3 +1,5 @@
+# ***THIS SCRIPT NO LONGER WORKS***
+mangarock.com has shutdown.
 # MangaRock-dl
 Simple script for downloading mangas from mangarock.com in webp, png, or jpg.
 Python required (Tested in Python3.6).
